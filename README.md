@@ -1,2 +1,2 @@
-# shrija-bookstore
-bookstore availability in online 
+# shrija-bookclub
+bookclub availability in online 
